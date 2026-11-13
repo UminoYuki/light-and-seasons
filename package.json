@@ -1,0 +1,5 @@
+{
+  "name": "light-and-seasons", "version": "1.0.0", "private": true, "type": "module",
+  "scripts": {"start": "node scripts/start-local.mjs", "dev": "node --watch server/local.mjs", "build": "node scripts/build.mjs", "test": "node --test test/*.test.mjs"},
+  "engines": {"node": ">=22.13"}
+}

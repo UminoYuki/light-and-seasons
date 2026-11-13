@@ -1,0 +1,11 @@
+data/
+dist/
+*.zip
+.env
+node_modules/
+config.json
+.openai/hosting.json
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
